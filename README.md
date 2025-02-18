@@ -62,6 +62,19 @@ Based on the analysis, we recommend:
 ## Results
 ![Analysis Results](analysis_results.png)
 
+## Interactive Dashboard
+The project includes an interactive dashboard built with Streamlit that provides:
+- Dynamic customer segmentation visualization
+- Real-time sales analysis
+- Product performance metrics
+- Search functionality
+- Customizable date ranges and segment numbers
+
+To run the dashboard:
+```bash
+streamlit run app.py
+```
+
 ## Getting Started
 1. Clone this repository
 2. Install required packages:
